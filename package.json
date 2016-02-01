@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "test": "karma start"
+  },
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.1",
+    "babel-preset-react": "^6.3.13",
+    "chai": "^3.5.0",
+    "karma": "^0.13.19",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-mocha": "^0.2.1",
+    "karma-webpack": "^1.7.0",
+    "mocha": "^2.4.5",
+    "react": "^0.14.7",
+    "webpack": "^2.0.6-beta"
+  }
+}
